@@ -1,7 +1,7 @@
 <h1 align="center">Edwin Ngui</h1>
 <h3 align="center">learning full-stack, data science, and machine learning</h3>
 
-<h3>Take a look at my <a href="https://edwinngui.vercel.app/" target="_blank" rel="noopener noreferrer">Portfolio Website</a>!</h3>
+<h3>Take a look at my <a href="https://edwinngui.com" target="_blank" rel="noopener noreferrer">Portfolio Website</a>!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
